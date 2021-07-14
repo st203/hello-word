@@ -8,7 +8,7 @@ T add(T value1, T value2) {
 
 int main() {
     
-    std::string a = "Roma ";
+    std::string a = "Indie ";
     std::string b = "Tailor";
     
     char x = 'a';
